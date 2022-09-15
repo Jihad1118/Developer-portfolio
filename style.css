@@ -1,0 +1,9 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.welcome-heading-one{
+    font-size: 50px;
+}
+#name-orange-one{
+    color: orange;
+}
