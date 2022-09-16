@@ -5,6 +5,7 @@ body{
 .welcome-heading-one{
     font-size: 50px;
 }
+
 #name-orange-one{
     color: orange;
 }
@@ -42,4 +43,44 @@ color: aliceblue;
     border-radius: 5px;
     background-image: linear-gradient(90deg, purple, pink);
     padding: 5px 15px 5px 15px;
+}
+#experience-area-one{
+    background-image: url(/Developer-portfolio/image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#experience-area-sub-one{
+    display: flex;
+    margin-bottom: 300px;
+   
+}
+#exp-box-one{
+    width: 40%;
+    box-shadow: 10px 10px 40px gray;
+    margin: 0% 5% 0% 5%;
+    padding: 0px 0px 0px 20px;
+    border-radius: 10px;
+    border-image:linear-gradient( blue, #005EB8);
+    border-left:7px solid;
+    border-image-slice: 1 ;
+}
+#exp-box-two{
+    width: 40%;
+    box-shadow: 10px 10px 40px gray;
+    margin: 0% 5% 0% 5%;
+    padding: 0px 0px 0px 20px;
+    border-radius: 10px;
+    border-image:linear-gradient( blueviolet , red);
+    border-left:7px solid;
+    border-image-slice: 1 ;
+
+}
+.orange-color-text{
+    color: orange;
+}
+.detail-heading{
+    font-size: 30px;
+}
+#copyrightfooter{
+    text-align: center;
 }
