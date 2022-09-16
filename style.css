@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 .welcome-heading-one{
     font-size: 50px;
@@ -14,9 +15,10 @@ body{
 .half-width img{
     width: 90%;
 }
-#section-one{
+#top-banner-one{
     display: flex;
-   
+   background-image: url(/Developer-portfolio/image/top-banner.png);
+   background-repeat: no-repeat;
 }
 #Hire-me-button-anchor{
     font-weight: 700;
